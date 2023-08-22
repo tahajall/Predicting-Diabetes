@@ -1,5 +1,5 @@
 # Predicting-Diabetes
-In this project we made a machine learning model using classic machine learning technics such as random forests and R programming lamguage.
+In this project we made a machine learning model using classic machine learning technics such as random forests and R programming laدguage.
 This was a project for regression analysis course.
 The questions answered in this project :
 1- Does this data set have any chance for predicting diabetes?
